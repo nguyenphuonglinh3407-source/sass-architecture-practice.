@@ -1,0 +1,5 @@
+.button {
+    @include button-style($primary-color);
+    border: none;
+    cursor: pointer;
+}
